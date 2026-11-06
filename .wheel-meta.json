@@ -1,0 +1,22 @@
+{
+  "wheel_id": 771,
+  "structure": "umbrella",
+  "slug": "homeloanbrokersunshinecoast-109",
+  "project": "mortgage-brokers-sunshine-coast-signs-you-need-d6df3de9a4448164",
+  "parent_t1_ref": "homeloanbrokersunshinecoast-154",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokersunshinecoast.com.au",
+  "primary_kw": "mortgage brokers sunshine coast signs you need",
+  "intended_url": "https://sites-e470-2.web.app/mortgage-brokers-sunshine-coast-signs-you-need-d6df3de9a4448164/",
+  "tier": "T2",
+  "writeback_nonce": "8b6ec6e0768ef0fc",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/mortgage-brokers-sunshine-coast-questions-to-ask-94f5ae3ab41f10/",
+      "anchor": "https://aumedia.neocities.org/mortgage-brokers-sunshine-coast-questions-to-ask-94f5ae3ab41f10/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
